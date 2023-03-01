@@ -6,8 +6,8 @@
 2. Install [prettier](https://www.npmjs.com/package/prettier) as dev dependency package - [presentation](https://docs.google.com/presentation/d/1JrufeLjxbBKKjWqnj1l32hcouQ3Hw-8rMIn_zzCTF7U/edit#slide=id.gec017bc9e0_0_0).
 3. Create new script in package.json to run prettier for every js file in project. So this command `npm run prettier` has to work and it will fix all your files in project. [Custom scripts](https://docs.google.com/presentation/d/1JrufeLjxbBKKjWqnj1l32hcouQ3Hw-8rMIn_zzCTF7U/edit#slide=id.gef8b43e128_0_3) - the command for prettier to format your files is `prettier --write .` So when you run `npm run prettier` it should execute `prettier --write .`
 4. Do all tasks in `task-object.js`
-5. Do all tasks in `task-axios.js`
-6. Do all tasks in `task-read.js`
+5. Do all tasks in `task-read.js`
+6. Do all tasks in `task-axios.js` 
 7. Task `task-bonus.js` is a bonus task for extra point. 
 
 ## Example
